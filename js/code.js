@@ -208,3 +208,16 @@
 // };
 
 // while 
+// let cnt = 0;
+// while(cnt < ) {
+    // if(cnt < numbers.length){
+    //     console.log(numbers[cnt]);
+    // }else {
+    //     break;
+    // }
+    // cnt++;
+// }
+// do{
+//     console.log(numbers[cnt]);
+//     cnt++;
+// }while(cnt < numbers.length);
